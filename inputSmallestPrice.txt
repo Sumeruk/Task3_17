@@ -1,0 +1,9 @@
+Xiaomi 32 4.5 16900
+Samsung 512 4.5 16901
+Asus 32 3.7 17001
+Samsung 512 4.5 15000
+Huawei 512 4.8 22000
+Xiaomi 1024 4.0 45000
+Samsung 256 4.3 18900
+Samsung 128 4.1 16900
+1000
